@@ -2,7 +2,7 @@
 - 👀 I am programming in Ruby
 - 🌱 I am study now JavaScript
 - 💞️ I want to collaborate in creating a social project
-- 📫 How to reach me q4wk13@gmail.com
+- 📫 How to reach me  q4wk13@gmail.com
 - 🧑‍ [My CV](https://github.com/Aleh13/cv)
 
 <!---
